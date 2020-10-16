@@ -1,3 +1,5 @@
+This is the code for the frontend of the social media app built using React and GraphQL. [Live demo](https://lucid-archimedes-eeb6ef.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
